@@ -8,3 +8,7 @@
 <li>Live Site URL: <a href="https://0xabdul.github.io/profile-card-remasterd-MUHAMMAD-ALI-VERSION-/">Click Here</a></li><br>
 <li>Solution URL: <a href="">Click Here</a></li>
 </ul><br>
+
+## Acknowledgments<br>
+<ul>
+  <li>Inspiration by <a href="https://www.frontendmentor.io/home">Frontend Mentor</a></li>
