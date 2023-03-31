@@ -6,7 +6,7 @@
 ## Links &#11088;
 <ul>
 <li>Live Site URL: <a href="https://0xabdul.github.io/profile-card-remasterd-MUHAMMAD-ALI-VERSION-/">Click Here</a></li><br>
-<li>Solution URL: <a href="">Click Here</a></li>
+<li>Solution URL: <a href="https://www.frontendmentor.io/solutions/profile-card-muhammad-ali-version-using-html-and-css-VJqQyL4Otz">Click Here</a></li>
 </ul><br>
 
 ## Acknowledgments<br>
